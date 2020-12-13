@@ -57,9 +57,9 @@ Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/
 ## More practice
 > [Angular 11 CRUD Application example with Web API](https://bezkoder.com/angular-11-crud-app/)
 
-> [Angular 10 Pagination example | ngx-pagination](https://github.com/bezkoder/angular-10-pagination-example)
+> [Angular 11 Pagination example | ngx-pagination](https://bezkoder.com/angular-11-pagination-ngx/)
 
-> [Angular 10 File Upload example with progress bar](https://bezkoder.com/angular-10-file-upload/)
+> [Angular 11 File Upload example with progress bar](https://bezkoder.com/angular-11-file-upload/)
 
 Fullstack with Node.js Express:
 > [Angular 11 + Node.js Express + MySQL](https://bezkoder.com/angular-11-node-js-express-mysql/)
@@ -71,9 +71,13 @@ Fullstack with Node.js Express:
 Fullstack with Spring Boot:
 > [Angular 11 + Spring Boot + MySQL](https://bezkoder.com/angular-11-spring-boot-crud/)
 
-> [Angular 10 + Spring Boot + PostgreSQL](https://bezkoder.com/angular-10-spring-boot-postgresql/)
+> [Angular 11 + Spring Boot + PostgreSQL](https://bezkoder.com/angular-11-spring-boot-postgresql/)
 
-> [Angular 10 + Spring Boot + MongoDB](https://bezkoder.com/angular-10-spring-boot-mongodb/)
+> [Angular 11 + Spring Boot + MongoDB](https://bezkoder.com/angular-11-spring-boot-mongodb/)
+
+> [Angular 11 + Spring Boot: File upload example](https://bezkoder.com/angular-11-spring-boot-file-upload/)
+
+> [Angular 11 + Spring Boot: Pagination example](https://bezkoder.com/pagination-spring-boot-angular-11/)
 
 Fullstack with Django:
 > [Angular 11 + Django Rest Framework](https://bezkoder.com/django-angular-11-crud-rest-framework/)
@@ -84,6 +88,8 @@ Serverless with Firebase:
 > [Angular 11 Firebase CRUD Realtime DB | AngularFireDatabase](https://bezkoder.com/angular-11-firebase-crud/)
 
 > [Angular 11 Firestore CRUD | AngularFireStore](https://bezkoder.com/angular-11-firestore-crud-angularfirestore/)
+
+> [Angular 11 Upload File to Firebase Storage: Display/Delete Files example](https://bezkoder.com/angular-11-file-upload-firebase-storage/)
 
 Integration (run back-end & front-end on same server/port)
 > [How to Integrate Angular 10 with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)

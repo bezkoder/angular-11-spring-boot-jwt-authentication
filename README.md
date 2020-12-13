@@ -62,3 +62,24 @@ If Client wants to send request to protected data/endpoints, a legal JWT must be
 
 For more details, please visit:
 [https://bezkoder.com/angular-11-spring-boot-jwt-auth/](https://bezkoder.com/angular-11-spring-boot-jwt-auth/)
+
+More Pactice:
+> [Angular 11 + Spring Boot + MySQL](https://bezkoder.com/angular-11-spring-boot-crud/)
+
+> [Angular 11 + Spring Boot + PostgreSQL](https://bezkoder.com/angular-11-spring-boot-postgresql/)
+
+> [Angular 11 + Spring Boot + MongoDB](https://bezkoder.com/angular-11-spring-boot-mongodb/)
+
+> [Angular 11 + Spring Boot: File upload example](https://bezkoder.com/angular-11-spring-boot-file-upload/)
+
+> [Angular 11 + Spring Boot: Pagination example](https://bezkoder.com/pagination-spring-boot-angular-11/)
+
+Serverless with Firebase:
+> [Angular 11 Firebase CRUD Realtime DB | AngularFireDatabase](https://bezkoder.com/angular-11-firebase-crud/)
+
+> [Angular 11 Firestore CRUD | AngularFireStore](https://bezkoder.com/angular-11-firestore-crud-angularfirestore/)
+
+> [Angular 11 Upload File to Firebase Storage example](https://bezkoder.com/angular-11-file-upload-firebase-storage/)
+
+Integration (run back-end & front-end on same server/port)
+> [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-spring-boot/)
