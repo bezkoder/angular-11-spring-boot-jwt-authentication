@@ -18,7 +18,7 @@ export class BoardAdminComponent implements OnInit {
         this.content = data;
       },
       err => {
-        this.content = JSON.parse(err.error).message;
+        this.content = err.status;
         this.tokenStorageService.signOut();
         window.location.assign("/home");
       }
