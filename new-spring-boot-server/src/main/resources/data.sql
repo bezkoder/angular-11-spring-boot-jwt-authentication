@@ -1,0 +1,7 @@
+INSERT INTO em_roles (name)
+SELECT 'ROLE_ADMIN'
+    WHERE NOT EXISTS (SELECT 1 FROM em_roles WHERE name = 'ROLE_ADMIN');
+
+INSERT INTO em_roles (name)
+SELECT 'ROLE_USER'
+    WHERE NOT EXISTS (SELECT 1 FROM em_roles WHERE name = 'ROLE_USER');
