@@ -1,0 +1,27 @@
+POST http://localhost:8080/api/auth/signup
+Content-Type: application/json
+
+{
+  "username" : "moderator",
+  "email" : "moderator@gmail.com",
+  "role": ["mod","user"],
+  "password" : "password"
+}
+###
+GET http://localhost:8080/api/test/all
+
+###
+POST http://localhost:8080/api/auth/signin
+Content-Type: application/json
+
+{
+  "username" : "moderator",
+  "password" : "password"
+}
+###
+GET http://localhost:8080/api/test/mod
+Authorization: Bearer replace_with_actual_access_token
+
+###
+GET http://localhost:8080/api/test/admin
+Authorization: Bearer replace_with_actual_access_token
